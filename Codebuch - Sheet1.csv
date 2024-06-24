@@ -1,0 +1,11 @@
+from,to,relation
+cc,cd,2
+cc,kl,4
+cd,pc,3
+cd,ysl,4
+cd,ysl,3
+kl,ysl,1
+kl,ysl,2
+kl,fs,3
+pc,cb,2
+cb,hdg,1
